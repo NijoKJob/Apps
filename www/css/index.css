@@ -199,8 +199,11 @@
  	}
 
  	p {
- 		margin: 0 0 1.5em 0;
+ 		margin: 1.5em 0 1.5em 0;
  	}
+	button {
+	    margin-top:1.5em;
+	}
 
  	h1, h2, h3, h4, h5, h6 {
  		color: #313f47;
@@ -242,7 +245,7 @@
  	@media screen and (max-width: 480px) {
 
  		h1 {
- 			font-size: 1.65em;
+ 			font-size: 1.61em;
  		}
 
  	}
